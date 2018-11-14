@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": null,
+      "github_link": "https://github.com/webdevwithomar/random_quote_generator",
+      "image_urls": ["rq1.png", "rq2.png", "rq3.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "An Interactive Form",
+      "description": "An engaging, easy to use and interactive form.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": null,
+      "github_link": "https://github.com/webdevwithomar/Interactive-Form",
+      "image_urls": ["if1.png", "if2.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Game Show App",
+      "description": "Guess the phrase before you run out of attempts.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": null,
+      "github_link": "https://github.com/webdevwithomar/OOP_Game_Show_App",
+      "image_urls": ["oop1.png", "oop2.png", "oop3.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Public API Requests",
+      "description": "An employee directory which communicates with a third-party API and displays random employees.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": null,
+      "github_link": "https://github.com/webdevwithomar/public_api_request",
+      "image_urls": ["pr1.png", "pr2.png", "pr3.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Project ZealCafe",
+      "description": "Website for a coffee distributor.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
+      "live_link": "http://zealcafebd.com",
+      "github_link": "https://github.com/webdevwithomar/project_zealcafe",
+      "image_urls": ["zp1.png", "zp2.png", "zp3.png"]
+    }
+  ]
+}
