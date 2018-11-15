@@ -148,3 +148,11 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.error {
+  width: 100%;
+  height: 100vh;
+  background-image: url('../../images/error.jpg');
+  background-position: center;
+  background-size: cover;
+}
