@@ -22,7 +22,21 @@ app.use('/project', projectRoute);
 
 //Error Handler
 app.use((req, res, next) => {
-  return res.status(404).render('error');
+  console.log('Hello');
+  const err = new Error('Not Found :(');
+  err.status = 404;
+  next(err);
+});
+
+app.use((req, res, next) => {
+  console.log('World');
+  next();
+});
+
+app.use((err, req, res, next) => {
+  res.locals.error = err;
+  res.status(err.status);
+  res.render('error');
 });
 
 // Server

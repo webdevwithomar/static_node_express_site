@@ -22,7 +22,7 @@
       "id": 2,
       "project_name": "Game Show App",
       "description": "Guess the phrase before you run out of attempts.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
+      "technologies": ["HTML", "CSS", "JavaScript", "Object Oriented Programming"],
       "live_link": "#",
       "github_link": "https://github.com/webdevwithomar/OOP_Game_Show_App",
       "image_urls": ["oop1.png", "oop2.png", "oop3.png"]
@@ -31,7 +31,7 @@
       "id": 3,
       "project_name": "Public API Requests",
       "description": "An employee directory which communicates with a third-party API and displays random employees.",
-      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
       "live_link": "#",
       "github_link": "https://github.com/webdevwithomar/public_api_request",
       "image_urls": ["pr1.png", "pr2.png", "pr3.png"]
