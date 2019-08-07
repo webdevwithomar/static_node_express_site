@@ -2,37 +2,29 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "Random Quote Generator",
-      "description": "A program that displays a randomly selected quote each time the user clicks a button.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "live_link": "#",
-      "github_link": "https://github.com/webdevwithomar/random_quote_generator",
-      "image_urls": [
-        "rq1.png",
-        "rq2.png",
-        "rq3.png"
-      ]
-    },
-    {
-      "id": 1,
-      "project_name": "An Interactive Form",
-      "description": "An engaging, easy to use and interactive form.",
+      "project_name": "Zultan",
+      "description": "A platform where vendors can sign up and sell their products and users can buy directly from them.",
       "technologies": [
         "HTML",
         "CSS",
         "JavaScript",
-        "jQuery"
+        "React",
+        "Python",
+        "Django",
+        "PostgreSQL"
       ],
-      "live_link": "#",
-      "github_link": "https://github.com/webdevwithomar/Interactive-Form",
-      "image_urls": [
-        "if1.png",
-        "if2.png"
-      ]
+      "live_link": "https://www.zultanbd.com",
+      "github_link": "#",
+      "image_urls": ["rq1.png", "rq2.png", "rq3.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Weather App",
+      "description": "A cool weather application",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js"],
+      "live_link": "https://weatherappbyomar.herokuapp.com/",
+      "github_link": "https://github.com/webdevwithomar/weather-app",
+      "image_urls": ["if1.png", "if2.png", "if3.png"]
     },
     {
       "id": 2,
@@ -46,82 +38,43 @@
       ],
       "live_link": "#",
       "github_link": "https://github.com/webdevwithomar/OOP_Game_Show_App",
-      "image_urls": [
-        "oop1.png",
-        "oop2.png",
-        "oop3.png"
-      ]
+      "image_urls": ["oop1.png", "oop2.png", "oop3.png"]
     },
     {
       "id": 3,
       "project_name": "Public API Requests",
       "description": "An employee directory which communicates with a third-party API and displays random employees.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "jQuery",
-        "AJAX"
-      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
       "live_link": "#",
       "github_link": "https://github.com/webdevwithomar/public_api_request",
-      "image_urls": [
-        "pr1.png",
-        "pr2.png",
-        "pr3.png"
-      ]
+      "image_urls": ["pr1.png", "pr2.png", "pr3.png"]
     },
     {
       "id": 4,
       "project_name": "Project ZealCafe",
       "description": "Website for a coffee distributor.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap"
-      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
       "live_link": "http://zealcafebd.com",
       "github_link": "https://github.com/webdevwithomar/project_zealcafe",
-      "image_urls": [
-        "zp1.png",
-        "zp2.png",
-        "zp3.png"
-      ]
+      "image_urls": ["zp1.png", "zp2.png", "zp3.png"]
     },
     {
       "id": 5,
       "project_name": "Library Manager",
       "description": "An app by which you can save book names with additional information. Modify or delete any existing books. Search any book by name, year, genre or author.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Node.js",
-        "MySQL"
-      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "MySQL"],
       "live_link": "#",
       "github_link": "https://github.com/webdevwithomar/sql_library_manager",
-      "image_urls": [
-        "lib1.png"
-      ]
+      "image_urls": ["lib1.png"]
     },
     {
       "id": 6,
       "project_name": "React Photo Gallery App",
       "description": "This app is built using a popular JavaScript library 'React'. The functionality is simple. It fetches photos from Flickr. If you search anything through this app, it will search photos from flickr with the keywords entered and the photos will be rendered.",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React"
-      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "React"],
       "live_link": "#",
       "github_link": "https://github.com/webdevwithomar/react_image_gallery",
-      "image_urls": [
-        "react1.png"
-      ]
+      "image_urls": ["react1.png"]
     }
   ]
 }
