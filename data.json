@@ -51,7 +51,7 @@
     },
     {
       "id": 4,
-      "project_name": "Project ZealCafe",
+      "project_name": "ZealCafe",
       "description": "Website for a coffee distributor.",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"],
       "live_link": "http://zealcafebd.com",
